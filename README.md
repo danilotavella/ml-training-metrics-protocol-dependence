@@ -16,3 +16,5 @@ DOI: https://doi.org/10.5281/zenodo.18860935
 
 PDF:
 protocol-dependent-global-training-metrics.pdf
+
+Keywords: machine learning, multi-objective learning, training dynamics, protocol dependence, optimization protocols
