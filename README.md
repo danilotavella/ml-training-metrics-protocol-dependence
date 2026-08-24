@@ -12,7 +12,7 @@ The experiment shows that when objectives are compatible, global metrics remain 
 
 Technical note.
 
-DOI: https://doi.org/10.5281/zenodo.18860935
+DOI: https://doi.org/10.5281/zenodo.18860936
 
 PDF:
 protocol-dependent-global-training-metrics.pdf
