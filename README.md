@@ -12,9 +12,13 @@ The experiment shows that when objectives are compatible, global metrics remain 
 
 Technical note.
 
-DOI: https://doi.org/10.5281/zenodo.18860936
+Zenodo concept DOI (all versions):
+https://doi.org/10.5281/zenodo.18860935
+
+Zenodo version v1.0 DOI:
+https://doi.org/10.5281/zenodo.18860936
 
 PDF:
-protocol-dependent-global-training-metrics.pdf
+Protocol-Dependent Legitimacy of Global Training Metrics - A Minimal Computational Stress Test.pdf
 
 Keywords: machine learning, multi-objective learning, training dynamics, protocol dependence, optimization protocols
